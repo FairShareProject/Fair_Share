@@ -9,18 +9,18 @@
 .DS_Store
 .project
 
-network/node_modules
-network/channel-artifacts/*.tx
-network/channel-artifacts/*.block
-network/crypto-config/*
-network/docker-compose-e2e.yaml
-network/ledgers
-network/ledgers-backup
-network/hfc-key-store/
+Network/node_modules
+Network/channel-artifacts/*.tx
+Network/channel-artifacts/*.block
+Network/crypto-config/*
+Network/docker-compose-e2e.yaml
+Network/ledgers
+Network/ledgers-backup
+Network/hfc-key-store/
 
 chaincode-docker-devmode/myc.block
 chaincode-docker-devmode/chaincode/sacc/sacc
-chaincode-docker-devmode/network/chaincode/chaincodeFF
+chaincode-docker-devmode/Network/chaincode/chaincodeFF
 
 # fabric sdk node modules
 app/node_modules/
